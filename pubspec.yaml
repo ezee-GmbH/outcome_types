@@ -1,0 +1,12 @@
+name: outcome_types
+description: Outcome types Option and Result, inspired by Rust
+version: 1.0.0
+
+environment:
+  sdk: ^3.0.0
+
+dev_dependencies:
+  very_good_analysis: ^6.0.0
+  
+dependencies:
+  meta: 1.12.0
